@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="demo.png" max-width="50%" alt="Collection view self-sizing cells" />
+    <img src="demo.png" width="300" max-width="50%" alt="Collection view self-sizing cells" />
 </p>
 
 # CollectionViewSelfSizing-Final
